@@ -11,6 +11,9 @@ body{
     justify-content: center;
     text-align: center;
 }
+.border{
+    padding: 40px 40px;
+}
 img {
     height: 250px;
     width: 200px;
